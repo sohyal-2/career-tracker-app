@@ -149,3 +149,8 @@ Access a wide range of AI models from multiple providers through a single API.
 
 - If you are updating from an old version and already logged in, please try logging out and login again.
 
+
+### Administration
+
+![Administration](./screenshots/jobsync-administration.png?raw=true "Administration Snapshot")
+
