@@ -8,11 +8,11 @@ Job searching can be overwhelming, with numerous applications to track and deadl
 
 ### Dashboard
 
-![App Snapshot](./screenshots/jobsync-dashboard-screenshot.png?raw=true "App Snapshot Image")
+![App Snapshot](./screenshots/jobsync-dashboard-screenshot.png?raw=true&v=2 "App Snapshot Image")
 
 ### Jobs Applied list
 
-![App Snapshot](./screenshots/jobsync-myjobs.png?raw=true "My Jobs Page Snapshot Image")
+![App Snapshot](./screenshots/jobsync-myjobs.png?raw=true&v=2 "My Jobs Page Snapshot Image")
 
 ### AI Resume review
 
@@ -152,5 +152,5 @@ Access a wide range of AI models from multiple providers through a single API.
 
 ### Administration
 
-![Administration](./screenshots/jobsync-administration.png?raw=true "Administration Snapshot")
+![Administration](./screenshots/jobsync-administration.png?raw=true&v=2 "Administration Snapshot")
 
